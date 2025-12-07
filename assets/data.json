@@ -1,0 +1,38 @@
+{
+    "premiere": {
+        "title": "GOLDEN HOUR",
+        "artist": "Alexander Flow ft. Flow 21",
+        "description": "Una fusión de ritmos que marca la evolución del sello. Lyrics oficiales ya disponibles. Vive la experiencia auditiva que está redefiniendo la escena local.",
+        "youtubeVideoId": "tu0UFrFjgMw",
+        "youtubeLink": "https://www.youtube.com/watch?v=tu0UFrFjgMw",
+        "spotifyLink": "https://open.spotify.com/intl-es/track/7cFLw2Lu3O4rNAXo7eDp0x?si=b7a4cde9ff7c4562"
+    },
+    "discography": [
+        {
+            "title": "Flow 21: Cypher #1",
+            "artist": "Alexander Flow ft. Flow 21",
+            "year": "2024",
+            "coverUrl": "./assets/images/flow21_cypher01.jpg",
+            "spotifyUrl": "https://open.spotify.com/intl-es/album/0k0NKbAWeUcr2WQhVRbF8t?si=jPB-i3l0SPW1Iaht4mz7Jw",
+            "youtubeUrl": "https://www.youtube.com/playlist?list=PLjSFgm1RprZNJE-H9VYaSuHvAhVS7rJXu"
+        },
+        {
+            "title": "Evolution",
+            "artist": "Alexander Flow",
+            "year": "2025",
+            "coverUrl": "./assets/images/evolution.jpg",
+            "spotifyUrl": "https://open.spotify.com/intl-es/album/7D2vASDHzlJ5rE7xVeTpdY?si=654GEB12SN2YgZRn2g9B-w",
+            "youtubeUrl": "https://youtube.com/playlist?list=PLjSFgm1RprZOovFoV7uSjjA5vNhwuU_dR&si=yIP4hFOUs118pz3c"
+        }
+    ],
+    "socials": {
+        "facebook": "https://www.facebook.com/flow21records",
+        "instagram": "https://www.instagram.com/flow21records",
+        "tiktok": "https://www.tiktok.com/@flow21records",
+        "spotify": "https://open.spotify.com/playlist/7ItD7E60hLP0CTDOq7ztdD",
+        "soundcloud": "https://soundcloud.com/flow21records",
+        "youtube": "https://www.youtube.com/channel/UCa8NnxAtg0m34RT1Mkq6EaA",
+        "twitter": "https://x.com/Flow21Records",
+        "email": "mailto:flow21records@gmail.com"
+    }
+}
