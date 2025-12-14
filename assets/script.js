@@ -134,22 +134,19 @@ window.addEventListener('scroll', () => {
     }
 });
 
-// Toggle Mobile Menu
+// Toggle Mobile Menu 
 if (mobileMenuBtn) {
     mobileMenuBtn.addEventListener('click', () => {
         const icon = mobileMenuBtn.querySelector('i');
         const isOpen = !mobileMenu.classList.contains('translate-x-full');
-
         if (isOpen) {
-            // Close
+            // Close 
             mobileMenu.classList.add('translate-x-full');
-            icon.setAttribute('data-lucide', 'menu');
-            document.body.style.overflow = ''; // Enable scrolling
+            document.body.style.overflow = ''; // Enable scrolling 
         } else {
-            // Open
+            // Open 
             mobileMenu.classList.remove('translate-x-full');
-            icon.setAttribute('data-lucide', 'x');
-            document.body.style.overflow = 'hidden'; // Disable scrolling while menu is open
+            document.body.style.overflow = 'hidden'; // Disable scrolling while menu is open 
         }
         lucide.createIcons();
     });
